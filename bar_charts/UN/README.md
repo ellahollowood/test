@@ -1,9 +1,11 @@
-#### This folder contains the script we use to create bar charts for the UN. 
+#### Contents
+This folder contains the script we use to create bar charts for the UN. 
+
 It includes:
 - Sample data, so you can try it out with something that works first
 - An example of what the resulting plot should look like
 
-#### Styling
+#### Notes on styling
 We've tried to script as much as possible of the styling in R code but there's some things we haven't managed yet.
 
 The bits of styling left to do are:
