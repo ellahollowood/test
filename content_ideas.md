@@ -12,6 +12,8 @@ scraping
 snippets
 best practice
 
-Inspiration from:
+--------
+
+### Inspiration from
 - https://github.com/fivethirtyeight
 - https://github.com/the-pudding
