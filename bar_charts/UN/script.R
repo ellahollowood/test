@@ -37,8 +37,3 @@ plot
 
 # Save chart to right dimensions
 ggsave("plot.pdf", width = 6.8, height = 1.84, units = "in")
-
-# NB. STYLING LEFT TO DO
-# font
-# continue the horizontal gridlines underneath y axis labels
-# adjust distance of country code labels from x axis
