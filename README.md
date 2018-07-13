@@ -24,7 +24,9 @@ README for each script, listing things like dependencies and describing the samp
 
 ## 3. Dependencies
 How do we highlight things like needing to install packages (in the script, in a readme etc?)
---> packrat https://rstudio.github.io/packrat/
+See packrat:
+- https://rstudio.github.io/packrat/
+- https://rstudio.github.io/packrat/walkthrough.html
 
 ## 4. Wikis
 We could have Wikis for useful code snippets (rather than whole scripts) and best practice type things.
