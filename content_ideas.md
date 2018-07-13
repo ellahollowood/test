@@ -1,16 +1,14 @@
 # Content ideas
 
-## Devices
+## Device library
 bar_charts
 - bar_charts/basic
 - bar_charts/UN
 
-## Techniques
-scraping
-
-## Wikis
-snippets
-best practice
+## Wiki
+- code snippets
+- techniques, eg scraping
+- best practice
 
 --------
 
