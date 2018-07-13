@@ -3,6 +3,9 @@ It includes:
 - Sample data, so you can try it out with something that works first
 - An example of what the resulting plot should look like
 
+![alt text](https://github.com/ellahollowood/test/blob/master/bar_charts/UN/plot.pdf)
+
+
 #### Styling
 We've tried to script as much as possible of the styling in R code but there's some things we haven't managed yet.
 
