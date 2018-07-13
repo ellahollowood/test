@@ -1,7 +1,7 @@
 ### CONTENTS
-This folder contains the script we use to create bar charts for the UN. 
 
-It includes:
+This folder includes:
+- :speech_balloon: A script for creating bar charts on some of our UN projects
 - :page_facing_up: Sample data, so you can try it out with something that works first
 - :bar_chart: An example of what the resulting plot should look like
 
