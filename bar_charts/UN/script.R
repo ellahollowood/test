@@ -11,7 +11,6 @@ data <- read_csv("sample.csv")
 x <- reorder(data$code, -data$million_people)
 y <- data$million_people
 width <- 0.73
-fill <- "#FBB800"
 min_value <- 100
 max_value <- 800
 y_limits <- c(min_value, max_value)
