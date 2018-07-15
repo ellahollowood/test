@@ -28,5 +28,8 @@ See packrat:
 - https://rstudio.github.io/packrat/
 - https://rstudio.github.io/packrat/walkthrough.html
 
-## 4. Wikis :raising_hand:
+## 4. Data :chart_with_upwards_trend:
+Because the repositories are public, we want fake data sets that show the structure of how the data should look.
+
+## 5. Wikis :raising_hand:
 We could have Wikis for useful code snippets (rather than whole scripts) and best practice type things.
