@@ -11,7 +11,7 @@ This folder includes:
 We've tried to script as much as possible of the styling in code, but there's some things we haven't managed yet.
 
 Here's a list of the bits of styling left to do:
-- Font (should be ...)
+- Font
 - Continue the horizontal gridlines underneath the y axis labels
 - Adjust the distance of the country code labels from the x axis
 
