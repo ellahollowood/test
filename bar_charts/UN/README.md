@@ -10,6 +10,12 @@ This folder includes:
 #### Unfinished business
 We've tried to script as much as possible of the styling in code, but there's some things we haven't managed yet.
 
+Here's the design:
+
+
+And here's the R plot:
+
+
 Here's a list of the bits of styling left to do:
 - Font
 - Continue the horizontal gridlines underneath the y axis labels
