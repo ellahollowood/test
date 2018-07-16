@@ -31,5 +31,5 @@ See packrat:
 ## 4. Data :chart_with_upwards_trend:
 Because the repositories are public, we want fake data sets that show the structure of how the data should look.
 
-## 4. Wikis :raising_hand:
+## 5. Wikis :raising_hand:
 We could have Wikis for useful code snippets (rather than whole scripts) and best practice type things.
