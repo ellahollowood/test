@@ -38,3 +38,7 @@ rsconnect/
 # Ipython notebooks
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# Ignore hidden files and folders
+.*  # 
+!/.gitignore  # explicitly do not ignore .gitignore
