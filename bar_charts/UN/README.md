@@ -11,10 +11,10 @@ This folder includes:
 We've tried to script as much as possible of the styling in code, but there's some things we haven't managed yet.
 
 Here's the design:
-
+![alt text](https://github.com/ellahollowood/test/blob/master/bar_charts/UN/Design.png)
 
 And here's the R plot:
-
+![alt text](https://github.com/ellahollowood/test/blob/master/bar_charts/UN/R%20Plot.png)
 
 Here's a list of the bits of styling left to do:
 - Font
