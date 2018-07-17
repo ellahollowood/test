@@ -1,5 +1,5 @@
 # Set working directory
-setwd("~/Documents/Tools/RStudio/267_ScriptTemplates/bar_charts/UN")
+setwd("./bar_charts_UN")
 
 # Load libraries
 library(tidyverse)
@@ -37,3 +37,4 @@ plot
 
 # Save chart to right dimensions
 ggsave("plot.pdf", width = 6.8, height = 1.84, units = "in")
+ggsave("plot.png", width = 6.8, height = 1.84, units = "in")
