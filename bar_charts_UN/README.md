@@ -1,9 +1,9 @@
 ### CONTENTS
 
 This folder includes:
-- :speech_balloon: A script for creating bar charts on some of our UN projects
+- :speech_balloon: Two scripts for creating bar charts on some of our UN projects. 1 in R, 1 in python.
 - :page_facing_up: Sample data, so you can try it out with something that works first
-- :bar_chart: An example of what the resulting plot should look like
+- :bar_chart: An example of what the resulting plot should look like AND an example of what the final design that we're trying to recreate in code looks like
 
 ----
 
