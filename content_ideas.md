@@ -10,9 +10,6 @@ bar_charts
 - techniques, eg scraping
 - best practice
 
-
-- maybe we could do this?
-
 --------
 
 ### Inspiration from
