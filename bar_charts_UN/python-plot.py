@@ -95,7 +95,7 @@ show(f)
 
 #Export as svg
 f.output_backend = 'svg'
-export_svgs(f, filename="Python plot.svg")
+export_svgs(f, filename="python-plot.svg")
 
 
 # In[ ]:
